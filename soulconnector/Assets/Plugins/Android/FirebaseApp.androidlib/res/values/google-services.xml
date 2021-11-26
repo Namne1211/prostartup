@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://soul-box-4f75d-default-rtdb.europe-west1.firebasedatabase.app/</string>
+  <string name="gcm_defaultSenderId" translatable="false">213029666267</string>
+  <string name="google_storage_bucket" translatable="false">soul-box-4f75d.appspot.com</string>
+  <string name="project_id" translatable="false">soul-box-4f75d</string>
+  <string name="google_api_key" translatable="false">AIzaSyAxkvFjRyAzSDwnd9WiW1e9i2cywjKEZPA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAxkvFjRyAzSDwnd9WiW1e9i2cywjKEZPA</string>
+  <string name="google_app_id" translatable="false">1:213029666267:android:bb90c289b32ace84bf3bfe</string>
+  <string name="default_web_client_id" translatable="false">213029666267-t77md7unb23bg4nk4dkv06euaa9og6uc.apps.googleusercontent.com</string>
+</resources>
