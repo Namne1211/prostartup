@@ -13,6 +13,10 @@ public class UIManager : MonoBehaviour
     public GameObject BioUI;
     public GameObject CareerUI;
     public GameObject CareerImagesUI;
+    public GameObject MemoriesUI;
+    public GameObject FamilyImagesUI;
+    public GameObject AdvenuresImagesUI;
+    public GameObject ChildhoodImagesUI;
 
     private void Awake()
     {
@@ -29,16 +33,17 @@ public class UIManager : MonoBehaviour
 
     //Functions to change the login screen UI
 
-    public void ClearScreen() 
+    public void ClearScreen()
     {
         loginUI.SetActive(false);
         StartUI.SetActive(false);
         BioUI.SetActive(false);
         CareerUI.SetActive(false);
+        MemoriesUI.SetActive(false);
 
     }
 
-    public void LoginScreen() 
+    public void LoginScreen()
     {
         ClearScreen();
         loginUI.SetActive(true);
@@ -54,18 +59,47 @@ public class UIManager : MonoBehaviour
         ClearScreen();
         StartUI.SetActive(true);
     }
-     public void CareerScreen()
+    public void CareerScreen()
     {
         ClearScreen();
         CareerUI.SetActive(true);
     }
-     public void CareerImagesScreenON()
+    public void CareerImagesScreenON()
     {
         CareerImagesUI.SetActive(true);
     }
-     public void CareerImagesScreenOFF()
+    public void CareerImagesScreenOFF()
     {
         CareerImagesUI.SetActive(false);
     }
+    public void MemoriesScreen()
+    {
+        ClearScreen();
+        MemoriesUI.SetActive(true);
+    }
+            public void FamilyScreenON()
+            {
+                FamilyImagesUI.SetActive(true);
+            }
+            public void FamilyScreenOFF()
+            {
+                FamilyImagesUI.SetActive(false);
+            }
+            public void AdventuresScreenON()
+            {
+                AdvenuresImagesUI.SetActive(true);
+            }
+            public void AdventuresScreenOFF()
+            {
+                AdvenuresImagesUI.SetActive(false);
+            }
+            public void ChildhoodScreenON()
+            {
+                ChildhoodImagesUI.SetActive(true);
+            }
+            public void ChildhoodScreenOFF()
+            {
+                ChildhoodImagesUI.SetActive(false);
+            }
 
 }
