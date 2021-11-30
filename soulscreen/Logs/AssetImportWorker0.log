@@ -1,0 +1,576 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16021 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/aaaa/Desktop/Saxion CMGT/Year 2 Term 2/Project Startup/Unity Apps MemBox/prostartup/soulscreen
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50484
+Successfully changed project path to: C:/Users/aaaa/Desktop/Saxion CMGT/Year 2 Term 2/Project Startup/Unity Apps MemBox/prostartup/soulscreen
+C:/Users/aaaa/Desktop/Saxion CMGT/Year 2 Term 2/Project Startup/Unity Apps MemBox/prostartup/soulscreen
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 84.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aaaa/Desktop/Saxion CMGT/Year 2 Term 2/Project Startup/Unity Apps MemBox/prostartup/soulscreen/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001142 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013866 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2045 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.5 MB.
+System memory in use after: 94.5 MB.
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 2.510000 ms (FindLiveObjects: 0.184500 ms CreateObjectMapping: 0.073300 ms MarkObjects: 2.113800 ms  DeleteObjects: 0.137200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Image1.png
+  artifactKey: Guid(d360426c7514d6848976129556274bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image1.png using Guid(d360426c7514d6848976129556274bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138cd593dbd7d90d478e7d9e57c0b962') in 0.167033 seconds
+  Import took 0.170968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/arrow backwards 1.png
+  artifactKey: Guid(57a77704cd08d76459fb514359dc9341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arrow backwards 1.png using Guid(57a77704cd08d76459fb514359dc9341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2951a26121b71a4962df90bfa1afba68') in 0.019533 seconds
+  Import took 0.023489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/bg2.png
+  artifactKey: Guid(0a61a58d9b41a7b48920077b4e4eb30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bg2.png using Guid(0a61a58d9b41a7b48920077b4e4eb30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b9d947dedca75ebc0eabd9a075d2fa') in 0.026509 seconds
+  Import took 0.031121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/button.png
+  artifactKey: Guid(96fe80b8bd7b274438abba1d06ed3e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/button.png using Guid(96fe80b8bd7b274438abba1d06ed3e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66378f6595d87f16c1f896970566346') in 0.021114 seconds
+  Import took 0.025827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/user icon.png
+  artifactKey: Guid(26b1234fa79f22b48a16096a88014146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/user icon.png using Guid(26b1234fa79f22b48a16096a88014146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1515ddb280c4ef196dc82fffbbab945') in 0.023449 seconds
+  Import took 0.027845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/background.png
+  artifactKey: Guid(41b82caf50893494e9d93f582ed9d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/background.png using Guid(41b82caf50893494e9d93f582ed9d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77fe41723d9e5f90f8bf2bc5cb482e20') in 0.018510 seconds
+  Import took 0.022859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/renderr.jpg
+  artifactKey: Guid(6afe25bf881f7c644a4f6f6cd299d015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/renderr.jpg using Guid(6afe25bf881f7c644a4f6f6cd299d015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab579c4dba32c81b215201a5f4aa611') in 0.023541 seconds
+  Import took 0.027993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/arrow forward 1.png
+  artifactKey: Guid(49a289c9e2d5d5c47853541b3e37791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arrow forward 1.png using Guid(49a289c9e2d5d5c47853541b3e37791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9311b024dc9ec3e2cb4b65c25c4147a5') in 0.016660 seconds
+  Import took 0.021247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Image slideshow BG.png
+  artifactKey: Guid(05b5779c710cae043ba2bc7f43809940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image slideshow BG.png using Guid(05b5779c710cae043ba2bc7f43809940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c993d2645caa8f39cb8bf939898751') in 0.022062 seconds
+  Import took 0.025964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.576694 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99045b21be7f2fc2d0450db0e16a821d') in 0.008794 seconds
+  Import took 0.012286 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.6 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2427.
+Total: 2.811500 ms (FindLiveObjects: 0.442400 ms CreateObjectMapping: 0.130500 ms MarkObjects: 2.150900 ms  DeleteObjects: 0.086100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.295 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2431.
+Total: 2.543600 ms (FindLiveObjects: 0.210700 ms CreateObjectMapping: 0.069900 ms MarkObjects: 2.178600 ms  DeleteObjects: 0.083700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 370.243863 seconds.
+  path: Assets/divider.png
+  artifactKey: Guid(85dde794c7c903245837f920550b73c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/divider.png using Guid(85dde794c7c903245837f920550b73c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b1ba2cce1bbe57e0b2dac774f8861a') in 0.071322 seconds
+  Import took 0.077119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 419.189539 seconds.
+  path: Assets/divider.png
+  artifactKey: Guid(85dde794c7c903245837f920550b73c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/divider.png using Guid(85dde794c7c903245837f920550b73c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6aa7dcf6d9cc2f307cbf8f1db3080b') in 0.014808 seconds
+  Import took 0.020484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.239321 seconds.
+  path: Assets/divider 1.png
+  artifactKey: Guid(52e700acb73cd6045b603b97631453b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/divider 1.png using Guid(52e700acb73cd6045b603b97631453b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2606a8b514842acb7771be4e4354e5c0') in 0.016188 seconds
+  Import took 0.020723 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014138 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 2.940700 ms (FindLiveObjects: 0.247800 ms CreateObjectMapping: 0.097700 ms MarkObjects: 2.543100 ms  DeleteObjects: 0.050400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.445558 seconds.
+  path: Assets/hudson.jpg
+  artifactKey: Guid(2bb6198b25ab07048bf8e9ab267d296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hudson.jpg using Guid(2bb6198b25ab07048bf8e9ab267d296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f5546f62bbc70d5f3538d921e17e89') in 0.120316 seconds
+  Import took 0.125462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.905708 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/background.PNG
+  artifactKey: Guid(4b240666149120f4e90406f2a593fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/background.PNG using Guid(4b240666149120f4e90406f2a593fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f7dd98fbeaddce9761994ace063f8a') in 0.027553 seconds
+  Import took 0.033425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Shared Resources/Sprites/Info.png
+  artifactKey: Guid(46686338e2635dc4a9e18988043d0240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Shared Resources/Sprites/Info.png using Guid(46686338e2635dc4a9e18988043d0240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2602d39bd2e39d92d89348a8ecc1a77d') in 0.019739 seconds
+  Import took 0.026615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Everybody (Backstreet’s Back)” by the Backstreet Boys.png
+  artifactKey: Guid(4ba3b76d312162d4ca33fa8a784f5949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Everybody (Backstreet’s Back)” by the Backstreet Boys.png using Guid(4ba3b76d312162d4ca33fa8a784f5949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1077394f90bf7359c964419ae23a51') in 0.024769 seconds
+  Import took 0.029533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/File Background.png
+  artifactKey: Guid(b45e7568687ef584e9543524a77d8074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/File Background.png using Guid(b45e7568687ef584e9543524a77d8074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19462ee204a54f88f4cf9e43bd68f260') in 0.021700 seconds
+  Import took 0.025684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Slot Machine Icons.png
+  artifactKey: Guid(595bd02e04d6e8144adc1c0a1a1a0227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Slot Machine Icons.png using Guid(595bd02e04d6e8144adc1c0a1a1a0227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05b46595e077dca5c05cbdd34c47c7c') in 0.052914 seconds
+  Import took 0.056931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Genie in a Bottle” by Christina Aguilera.png
+  artifactKey: Guid(39e675b90d2186c4f8a5c29e8e7103c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Genie in a Bottle” by Christina Aguilera.png using Guid(39e675b90d2186c4f8a5c29e8e7103c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce6dce5b12c19ed20991c6a3c188afd') in 0.023282 seconds
+  Import took 0.027051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Line Marker.png
+  artifactKey: Guid(8c992bb51d5eee14a94a9421ab8b21bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Line Marker.png using Guid(8c992bb51d5eee14a94a9421ab8b21bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce74ede8250fe5e19c40daddcab28bc') in 0.015142 seconds
+  Import took 0.018828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Gradient.png
+  artifactKey: Guid(b786fce0d30f5464ebdec072bdafec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Gradient.png using Guid(b786fce0d30f5464ebdec072bdafec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a521a059d25ee04d9e6fcf1de1e7b77f') in 0.020021 seconds
+  Import took 0.023609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Slot Machine.png
+  artifactKey: Guid(232e9b2a3f0b65d4791a5a6a1f638dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Slot Machine.png using Guid(232e9b2a3f0b65d4791a5a6a1f638dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bed804d2cf3e8333811c4550171f38') in 0.055788 seconds
+  Import took 0.059910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Billie Jean” by Michael Jackson.png
+  artifactKey: Guid(c90785bb05cee914492e08db8b5cbadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Billie Jean” by Michael Jackson.png using Guid(c90785bb05cee914492e08db8b5cbadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e64d16a3b000b6028abe01e46a0a0a9') in 0.021025 seconds
+  Import took 0.025133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“I Wanna Dance With Somebody” by Whitney Houston.png
+  artifactKey: Guid(1b1591d064acd444eb40619a731c87f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“I Wanna Dance With Somebody” by Whitney Houston.png using Guid(1b1591d064acd444eb40619a731c87f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87eb847caf1e199eabfc8357ab705e0') in 0.020573 seconds
+  Import took 0.023841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Baby One More Time” by Britney Spears.png
+  artifactKey: Guid(451b614b13e598b45ab8c4b6e499be4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Baby One More Time” by Britney Spears.png using Guid(451b614b13e598b45ab8c4b6e499be4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077e03edb314dee67406ed2bed2f4075') in 0.023924 seconds
+  Import took 0.027320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Hollaback Girl” by Gwen Stefani.png
+  artifactKey: Guid(2e5557bb772c14946ba93af6675d03e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Hollaback Girl” by Gwen Stefani.png using Guid(2e5557bb772c14946ba93af6675d03e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9c236667c28aaf525cc4ff4e727467') in 0.027021 seconds
+  Import took 0.031209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/background.PNG
+  artifactKey: Guid(4b240666149120f4e90406f2a593fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/background.PNG using Guid(4b240666149120f4e90406f2a593fbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f7dd98fbeaddce9761994ace063f8a') in 0.019475 seconds
+  Import took 0.024028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 4 (Pinned Map)/Sprites/Pin.png
+  artifactKey: Guid(e7410f03d9801de4bae77d4ae12e0f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 4 (Pinned Map)/Sprites/Pin.png using Guid(e7410f03d9801de4bae77d4ae12e0f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703c9357348d9362b43f2374f4f8a5fc') in 0.017828 seconds
+  Import took 0.021869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“It’s Gonna Be Me” by ‘N Sync.png
+  artifactKey: Guid(05f51abc14c9b0748a68be5feaabe14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“It’s Gonna Be Me” by ‘N Sync.png using Guid(05f51abc14c9b0748a68be5feaabe14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dff39bb7fc70b049de37298077983d') in 0.024486 seconds
+  Import took 0.028210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Casino Background.png
+  artifactKey: Guid(1d9f629b998d7754eb2e5debba20cd1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 3 (Slot Machine)/Sprites/Casino Background.png using Guid(1d9f629b998d7754eb2e5debba20cd1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebe230707e87ba8cd18a31c9358691b') in 0.021348 seconds
+  Import took 0.025277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Like a Prayer” by Madonna.png
+  artifactKey: Guid(03f16e99d550df84f992ad862017640f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Like a Prayer” by Madonna.png using Guid(03f16e99d550df84f992ad862017640f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07007f080814be7f5c5bb1395b72680d') in 0.023354 seconds
+  Import took 0.027474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Desktop Background.png
+  artifactKey: Guid(a4b750c59649514499377f2ea5bd054e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Desktop Background.png using Guid(a4b750c59649514499377f2ea5bd054e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f38549bfc9b3e82d89f0437ffa2128') in 0.018962 seconds
+  Import took 0.023341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Rolling in the Deep” by Adele.png
+  artifactKey: Guid(f26dddb082fbc0d479631e6e12fe853c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Rolling in the Deep” by Adele.png using Guid(f26dddb082fbc0d479631e6e12fe853c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83b2540536a21664ee09319a9562c50') in 0.017871 seconds
+  Import took 0.021308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 4 (Pinned Map)/Sprites/World Map.png
+  artifactKey: Guid(f3813c873b5fb434881c68f57d7dea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 4 (Pinned Map)/Sprites/World Map.png using Guid(f3813c873b5fb434881c68f57d7dea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f7aff0d45fe1b99e1ada03c3aa2df0') in 0.319389 seconds
+  Import took 0.327347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/icons.PNG
+  artifactKey: Guid(776346e7cdfbdec46a1ae6c93e66e5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 2 (iOS Home Screen)/Sprites/icons.PNG using Guid(776346e7cdfbdec46a1ae6c93e66e5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4772407d13dd46c5ac04f84f8f2fda') in 0.020951 seconds
+  Import took 0.025094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Call Me Maybe” by Carly Rae Jepsen.png
+  artifactKey: Guid(273b3f8c3b43e0b458f1ab0c96f72ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Call Me Maybe” by Carly Rae Jepsen.png using Guid(273b3f8c3b43e0b458f1ab0c96f72ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6708906a603c3dea30fe5b455baa30') in 0.022852 seconds
+  Import took 0.026342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Don’t Stop Believing” by Journey.png
+  artifactKey: Guid(3621269e3324615448725201e33a4936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Sprites/Songs/“Don’t Stop Believing” by Journey.png using Guid(3621269e3324615448725201e33a4936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234e3614706f79c1d3b01d1912b33043') in 0.026469 seconds
+  Import took 0.030856 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2457.
+Total: 2.514400 ms (FindLiveObjects: 0.213500 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.137300 ms  DeleteObjects: 0.090800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.248 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2461.
+Total: 2.718000 ms (FindLiveObjects: 0.236300 ms CreateObjectMapping: 0.088900 ms MarkObjects: 2.334300 ms  DeleteObjects: 0.057500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.369269 seconds.
+  path: Assets/vila rosa.jpg
+  artifactKey: Guid(48689dd9fd9764d488de205b9ad2de5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vila rosa.jpg using Guid(48689dd9fd9764d488de205b9ad2de5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e5ab163a0bdb51a12b17c379ecdbdd') in 0.067244 seconds
+  Import took 0.071495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.847756 seconds.
+  path: Assets/Start-bouw-NOW-Building.jpg
+  artifactKey: Guid(25c0fd4381faa2849b69d9234520ce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Start-bouw-NOW-Building.jpg using Guid(25c0fd4381faa2849b69d9234520ce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717cf497aca093aba03f2ed78c43b067') in 0.019217 seconds
+  Import took 0.024267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001580 seconds.
+  path: Assets/Start-bouw-NOW-Building.jpg
+  artifactKey: Guid(25c0fd4381faa2849b69d9234520ce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Start-bouw-NOW-Building.jpg using Guid(25c0fd4381faa2849b69d9234520ce32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717cf497aca093aba03f2ed78c43b067') in 0.019045 seconds
+  Import took 0.024041 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016122 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2468.
+Total: 2.457500 ms (FindLiveObjects: 0.200400 ms CreateObjectMapping: 0.136700 ms MarkObjects: 2.075200 ms  DeleteObjects: 0.044300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.382 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2472.
+Total: 3.211100 ms (FindLiveObjects: 0.351000 ms CreateObjectMapping: 0.130500 ms MarkObjects: 2.670300 ms  DeleteObjects: 0.056900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.37 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2476.
+Total: 2.582300 ms (FindLiveObjects: 0.212200 ms CreateObjectMapping: 0.070000 ms MarkObjects: 2.211700 ms  DeleteObjects: 0.087300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.345 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 2.804000 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.438400 ms  DeleteObjects: 0.088900 ms)
+
