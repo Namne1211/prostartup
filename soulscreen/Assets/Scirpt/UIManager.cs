@@ -11,6 +11,8 @@ public class UIManager : MonoBehaviour
     public GameObject loginUI;
     public GameObject StartUI;
     public GameObject BioUI;
+    public GameObject CareerUI;
+    public GameObject CareerImagesUI;
 
     private void Awake()
     {
@@ -32,6 +34,8 @@ public class UIManager : MonoBehaviour
         loginUI.SetActive(false);
         StartUI.SetActive(false);
         BioUI.SetActive(false);
+        CareerUI.SetActive(false);
+
     }
 
     public void LoginScreen() 
@@ -49,6 +53,19 @@ public class UIManager : MonoBehaviour
     {
         ClearScreen();
         StartUI.SetActive(true);
+    }
+     public void CareerScreen()
+    {
+        ClearScreen();
+        CareerUI.SetActive(true);
+    }
+     public void CareerImagesScreenON()
+    {
+        CareerImagesUI.SetActive(true);
+    }
+     public void CareerImagesScreenOFF()
+    {
+        CareerImagesUI.SetActive(false);
     }
 
 }
