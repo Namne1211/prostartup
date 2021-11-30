@@ -1,14 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ContentController : MonoBehaviour
 {
+    public List<GameObject> contents = new List<GameObject>();
 
-    public API api;
-
-    public void LoadContent(string name)
+    Transform tf;
+    private void Start()
+    {
+        tf = GetComponent<Transform>();
+    }
+    public void LoadContent(int content)
     {
         DestroyAllChildren();
-        api.GetBundleObject(name, OnContentLoaded, transform);
+        Instantiate(contents[content], tf);
     }
 
     void OnContentLoaded(GameObject content)
@@ -23,5 +29,6 @@ public class ContentController : MonoBehaviour
         {
             Destroy(child.gameObject);
         }
-    }
+    }   
 }
+
