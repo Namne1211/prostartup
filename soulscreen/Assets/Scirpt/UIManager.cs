@@ -17,6 +17,7 @@ public class UIManager : MonoBehaviour
     public GameObject FamilyImagesUI;
     public GameObject AdvenuresImagesUI;
     public GameObject ChildhoodImagesUI;
+    public GameObject InformationUI;
 
     private void Awake()
     {
@@ -100,6 +101,14 @@ public class UIManager : MonoBehaviour
             public void ChildhoodScreenOFF()
             {
                 ChildhoodImagesUI.SetActive(false);
+            }
+            public void InformationON()
+            {
+                InformationUI.SetActive(true);
+            }
+            public void InformationOFF()
+            {
+                InformationUI.SetActive(true);
             }
 
 }
